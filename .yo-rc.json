@@ -1,0 +1,12 @@
+{
+  "generator-yeogurt": {
+    "config": {
+      "projectName": "www",
+      "htmlOption": "jade",
+      "jsPreprocessor": "es6",
+      "cssOption": "stylus",
+      "testFramework": "jasmine"
+    },
+    "version": "1.4.0"
+  }
+}
