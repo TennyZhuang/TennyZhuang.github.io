@@ -1,0 +1,16 @@
+{
+  "name": "www",
+  "version": "0.0.1",
+  "authors": [
+    "Tenny Zhuang <zty0826@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
